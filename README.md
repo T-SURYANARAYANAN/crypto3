@@ -14,11 +14,11 @@ decrypt the message, each block is multiplied by the inverse of the m trix used 
 
 ## ALGORITHM:
 
-STEP-1: Read the plain text and key from the user. 
-STEP-2: Split the plain text into groups of length three. 
-STEP-3: Arrange the keyword in a 3*3 matrix.
-STEP-4: Multiply the two matrices to obtain the cipher text of length three.
-STEP-5: Combine all these groups to get the complete cipher text.
+STEP-1: Read the plain text and key from the user.<br>
+STEP-2: Split the plain text into groups of length three. <br>
+STEP-3: Arrange the keyword in a 3*3 matrix.<br>
+STEP-4: Multiply the two matrices to obtain the cipher text of length three.<br>
+STEP-5: Combine all these groups to get the complete cipher text.<br>
 
 ## PROGRAM 
 ```c
