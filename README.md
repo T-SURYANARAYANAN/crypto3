@@ -106,7 +106,7 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="1188" height="666" alt="image" src="https://github.com/user-attachments/assets/46f38a65-c8c0-450f-b043-f4dd5afbe20d" />
+<img width="1182" height="665" alt="image" src="https://github.com/user-attachments/assets/8cbdf9a1-641b-47a1-bc07-02a0221d6374" />
 
 ## RESULT
 Thus the implementation of HILL CIPHER had been executed successfully.  
